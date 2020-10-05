@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "exit 0",
-    "start": "node app.js"
+    "start": "node app.js", "lint": "eslint.js"
   },
   "author": "Pedro Narciso García Revington <p.revington@gmail.com>",
   "license": "MIT",
